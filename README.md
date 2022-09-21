@@ -1,7 +1,7 @@
 
 # Skill / Job Recommender Application
-TECHNOLOGY: Cloud Application Development<br>
-TEAM ID:PNT2022TMID
+TECHNOLOGY : Cloud Application Development<br>
+TEAM ID : PNT2022TMID39734
 
 ## TEAM MEMBERS
  - Arun SK (TL)
